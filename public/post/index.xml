@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Title</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two Women with a Different Background Fighting for the Same Causes: The Abolition of Slavery and Women&#39;s rights</title>
+      <link>https://example.com/post/2021-05-06-tbd/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2021-05-06-tbd/</guid>
+      <description>Women played a significant role in the fight against slavery and racial injustice. Angelina Grimke, a southerner aristocrat and Sojourner Truth, a former slave were both prominent figures in the 19th century. Despite their differences, both fought for the same issues; racial and gender inequality.
+
+Background 
+Angelina Grimke
+Angelina Grimke Weld was born on February 20, 1805, in Charleston, South Carolina to a wealthy slave-holding family. Angelina and her sister Sarah grew up witnessing the horror of slavery from an early age.</description>
+    </item>
+    
+  </channel>
+</rss>
