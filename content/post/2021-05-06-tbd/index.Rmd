@@ -1,5 +1,5 @@
 ---
-title: "Two Women with a Different Background Fighting for the Same Causes: The Abolition of Slavery and Women's rights"
+title: "Sojourner Truth and Angelina Grimke: A Fight For The Same Causes"
 author: R package build
 date: '2021-05-06'
 slug: []
@@ -11,7 +11,7 @@ type: post
 highlight: no
 ---
 
-Women played a significant role in the fight against slavery and racial injustice. Angelina Grimke, a southerner aristocrat and Sojourner Truth, a former slave were both prominent figures in the 19th century. Despite their differences, both fought for the same issues; racial and gender inequality.
+Women played a significant role in the fight against slavery and racial injustice. Angelina Grimke, a Southern aristocrat of Charleston and Sojourner Truth, a former slave were both prominent figures in the 19th century. Despite their differences, both fought for the same issues; the abolition of slavery and women's rights.
 
 <br>
 
@@ -23,10 +23,10 @@ Women played a significant role in the fight against slavery and racial injustic
 
 **Angelina Grimke**
 
-Angelina Grimke Weld was born on February 20, 1805, in Charleston, South Carolina to a wealthy slave-holding family. Angelina and her sister Sarah grew up witnessing the horror of slavery from an early age. By the time they reached 20 years old, they could no longer bear living with the practice of slavery and left the south to move to Philadelphia. They became deeply involved in the abolition movement and joined the Philadelphia Female Anti-Slavery Society. Angelina became one of the first women to speak publicly in front of both men and women on the issue of slavery. An act considered scandalous at the time.
+Angelina Grimke Weld was born on February 20, 1805, in Charleston, South Carolina to a wealthy slave-holding family. Angelina and her sister [Sarah](https://www.thoughtco.com/sarah-grimka-biography-3530211) grew up witnessing the horror of slavery from an early age. By the time they reached 20 years old, they could no longer bear living with the practice of slavery around them and left the south to move to Philadelphia. They became deeply involved in the abolition movement and joined the Philadelphia Female Anti-Slavery Society. Angelina became one of the first women to speak publicly in front of both men and women on the issue of slavery. An act considered scandalous at the time.
 
 
-In 1836, Angelina Grimke wrote a unique piece; *An Appeal to the Christians Women of the South*. This pamphlet was significant at the time because it was written by a woman and addressed to other women with the hope to persuade on the evil of slavery. While her pamphlet was well received in the North among the abolitionists, it was burned publicly in the south and the Grimke sisters were banned to visit Charleston ever again. Women had no place in the political scene at the time, they were expected to stay home, and their opinions were not welcomed. In her pamphlet, Grimke encouraged women to breaks those standards, to speak up and act in any way they could to get involved in the abolition of slavery. 
+In 1836, Angelina Grimke wrote a unique piece; [*Appeal to the Christians Women of the South*](http://utc.iath.virginia.edu/abolitn/abesaegat.html). This pamphlet was significant at the time because it was written by a woman and addressed to other women with the hope to persuade on the evil of slavery. While her pamphlet was well received in the North among the abolitionists, it was burned publicly in the south and the Grimke sisters were banned to visit Charleston ever again. Women had no place in the political scene at the time, they were expected to stay home, and their opinions were not welcomed. In her pamphlet, Grimke encouraged women to breaks those standards, to speak up, and act in any way they could to get involved in the abolition of slavery. 
 
 <a title="Unknown authorUnknown author, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Angelina_Emily_Grimke.jpg"><img width="256" alt="Angelina Emily Grimke" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Angelina_Emily_Grimke.jpg/256px-Angelina_Emily_Grimke.jpg"></a>
 <font size ="1">*Angelina Grimke*</font>
@@ -34,7 +34,7 @@ In 1836, Angelina Grimke wrote a unique piece; *An Appeal to the Christians Wome
 
 **Sojourner Truth**
 
-Sojourner Truth was an African American born into slavery in 1797 in Ulster County, New York, under the name of Isabella Baumfree. Unlike Angelina Grimke, Truth's early life was marked by harsh physical labor. She was sold and bought several times. Truth's journey to freedom began in 1826, a year before New York state law to emancipate slaves took effect. She escaped with her daughter Sophia but was forced to leave her other children behind. In 1828, Truth moved to New York and learned that her five-years-old son has been sold illegally into slavery in Alabama. She decided to take legal action to rescue him and was the first black woman to sue a white man, and won the case. It was during the year 1843, that Truth's life took a turning point. She became a preacher and involved in the abolition movement in which she met William Lloyd Garrison and Frederick Douglass. While Truth dedicated her time speaking on racial inequality, she was also an activist for women's rights.
+Sojourner Truth was an African American born into slavery in 1797 in Ulster County, New York, under the name of Isabella Baumfree. Unlike Angelina Grimke, Truth's early life was marked by harsh physical labor. She was sold and bought several times and worked for many masters. Truth's journey to freedom began in 1826, a year before New York state law to emancipate slaves took effect. She escaped with her daughter Sophia but was forced to leave her other children behind. In 1828, Truth moved to New York and learned that her five-year-old son has been sold illegally into slavery in Alabama. She decided to take legal action to rescue him and was the first black woman to sue a white man and won the case. It was during the year 1843, that Truth's life took a turning point. She became a preacher and involved in the abolition movement in which she met [William Lloyd Garrison](https://www.biography.com/writer/william-lloyd-garrison) and [Frederick Douglass](https://www.biography.com/activist/frederick-douglass). While Truth dedicated her time speaking on racial inequality, she was also an activist for women's rights.
 
 Sojourner Truth never learned how to read and write, however, she became a great orator and well regarded for her powerful speeches. One of the most famous speeches of all time, known as "Ain't I a Women" was delivered in 1851 at the Ohio Women's Rights Convention with the purpose to advocate for women's rights. Truth constructed her speech based on her personal experience as a former slave as well as her knowledge of the Bible. Filled with empowering words, her speech impacted thousands of people across the country.
 
@@ -43,36 +43,80 @@ Sojourner Truth never learned how to read and write, however, she became a great
 <font size ="1"><FIGCAPTION>*Sojourner Truth*<FIGCAPTION></font>
 
 
-## Their similarities and differences
+## Their Similarities and Differences
 <br>
 
 
-**Speaking in public in the 19th century as a woman**
+**Being a woman in the 19th century**
 
-Grimke and Truth were both strong and passionate women who stood up for what they believed in and that was equal rights for everyone, including men, women, and slaves. The main purpose of *An Appeal to the Christian Women of the South* was to inspire as well as to persuade the audience on the evil of slavery. She does not directly advocate for women's rights but her act of speaking on such a matter was a way to show that women had the right to be involved in a cause they felt strongly about and share their opinions. While most women's rights activists supported abolition, not all abolitionists supported women's rights. A perfect example of this is Catharine Beecher who exchanged a series of letters with Grimke discussing her views and involvement as a woman in the abolitionist cause. Beecher had a very contrasting view of the role of women in society. She believed that women were subordinate, and their role was restricted to the domestic sphere rather than politics. The constant confrontation and discrimination Grmke received when speaking in public led her to realize the inequality between men and women and turned her attention toward women's rights.
+Grimke and Truth were both strong and passionate women who stood up for what they believed in, which was equal rights for everyone; men, women, and slaves. The main purpose of *Appeal to the Christian Women of the South* was to inspire as well as to persuade the audience on the evil of slavery. Grimke does not directly advocate for women's rights but her act of speaking on such a matter was a way to show that women had the right to be involved in a cause they felt strongly about and share their opinions. In her pamphlet, Grimke acknowledges that women don't possess any sort of influence in the political scene. She encourages her audience to use their submissive position in the household to persuade the men around them responsible for making the decisions. She says "I know you do not make the laws, but I also know that you are the wives and mothers, the sisters and daughters of the ones who do".
 
-What is interesting in Grimke's pamphlet is that she recognizes women don't possess any sort of influence in the political scene. She tells her audience to use their submissive position in the household to persuade the men around them responsible for making the decisions. She says "I know you do not make the laws, but I also know that you are the wives and mothers, the sisters and daughters of the ones who do". Sojourner Truth, on the other hand, refutes the idea that women and men were different. She began her speech by making a bold statement by establishing herself as a woman in front of her audience, she declares " I am women's right". In the first part of the speech, Truth argues that women are physically equal to men and that this should not be determined by the body but rather by the work they could do. She uses her personal experience as a former slave to depicts the hard physical work she had done in the fields and says, "I have as much muscle as any man and can do as much work as any man. I have plowed and reaped and husked and chopped and mowed and can any man do more than that?".
+Sojourner Truth, on the other hand, refutes the idea that women and men are different. She began her speech by making a bold statement by establishing herself as a woman in front of her audience, she declares "I am women's right". In the first part of the speech, Truth argues that women are physically equal to men. She claims that their equality should not be determined by the body but rather by the work they could do. She uses her personal experience as a former slave to depicts the hard physical work she had done in the fields and says, “I have as much muscle as any man and can do as much work as any man. I have plowed and reaped and husked and chopped and mowed and can any man do more than that?”. She then talks about women's intellectual capacities and interestingly, accepts the idea that they are inferior to men. Yet she uses it to argue that they should still be given rights and that if women's intellect is so inferior to men, there is no reason to fear them. Angelina Grimke and Sojourner Truth showed that women could have a place in the public sphere too. They proved that they have a voice, and could speak as eloquently as men did.
 
+<br>
 
+>
+<div align="center"><p style="font-size:25px;color:purple;">*"I have as much muscle as any man, and can do as much work as any man"*</p>
+<div align="right"><p style="font-size:10px;color:purple;">-Sojourner Truth</p>
+
+<br>
+
+It is also worth mentioning that not all abolitionists supported women's rights. A perfect example of this is [Catharine Beecher](https://www.thoughtco.com/catharine-beecher-4691465) who exchanged a series of letters with Grimke discussing her views and involvement as a woman in the abolitionist cause. Beecher had a very contrasting view of the role of women in society. She believed that women were subordinate, and their role was restricted to the domestic sphere rather than politics. Despite the many criticisms Grimke received, she remained committed to the abolitionist cause and began to turn her attention towards the rights of women as well.
+
+<br>
+
+<p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ry_i8w2rdQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-<font size ="2"><FIGCAPTION>*Sojourner Truth's speech "Ain't I a woman" performed by Kerry Washington*<FIGCAPTION></font>
+<font size ="2"><FIGCAPTION>*Sojourner Truth's speech "Ain't I a woman" (Frances Gage's version) performed by Kerry Washington*<FIGCAPTION></font>
+</p>
 
 <br>
 
 **Biblical Arguments**
 
 
-Christianity was a central feature of the 19th century and to argue persuasively, Grimke and Truth had to find a way the use the Bible to make their cases and as we will see, both included several religious examples and references in their work. Many pro-slavery writers used religion to defend the practice of slavery. Grimke on the other hand, used the Bible to argue that slavery is a sin. She encourages women to pray, to read the Bible, and to judge by themselves, she says, "Read the Bible, it contains the words of Jesus and they are Spirit and life. Judge for yourself whether he sanctioned such system of oppression a crime.". In her pamphlet, she argues that slavery is contrary to the first charter of human rights given to Adam, that Slavery never existed under the Jewish dispensation and lastly, contrary to the teaching of Jesus. Likewise, Sojourner Truth also uses her knowledge of the Bible and her connection to God to support her argument. First, she makes a reference to the condemnation of Eve and says "I have heard the Bible and learned that Eve caused man to sin. Well if women upset the world, do give her a chance to set it right side up." she also talks about the role of Mary and Martha in the resurrection of Lazarus. Lastly, Truth makes a strong argument about the origin of Jesus and the role of Mary: " And how came Jesus into the world? through God who created him and a woman who bore him. Man where is your part?". Sojourner Truth and Angelina Grimke were both devout Christian and their connection to God and the teaching of the Bible allowed them to argue that all humans without exception should be treated equally. 
+Christianity was a central feature of the 19th century and to argue persuasively, Grimke and Truth had to find a way the use the Bible to make their cases. As we will see, both included several religious examples and references in their work to appeal to their audience. Many pro-slavery writers used religion to defend the practice of slavery. Grimke on the other hand used the Bible to argue that slavery is a sin and believed God would punish those who own slaves. She encourages women to pray, to read the Bible, and to judge by themselves, she says, "Read the Bible, it contains the words of Jesus and they are Spirit and life. Judge for yourself whether he sanctioned such system of oppression a crime.". In her pamphlet, she uses several biblical arguments. She claims that slavery is contrary to the first charter of human rights given to Adam, that Slavery never existed under the Jewish dispensation and lastly, contrary to the teaching of Jesus. 
+
+Likewise, Sojourner Truth also uses her knowledge of the Bible and her connection to God to support her arguments. First, she makes a reference to the condemnation of Eve and says "I have heard the Bible and learned that Eve caused man to sin. Well if women upset the world, do give her a chance to set it right side up.". She also talks about the role of Mary and Martha in the resurrection of Lazarus. Lastly, Truth makes a strong argument about the origin of Jesus and the role of Mary: " And how came Jesus into the world? through God who created him and a woman who bore him. Man where is your part?". Sojourner Truth and Angelina Grimke were both devout Christian and by evoking religious figures and allusions from the Bible, they exposed the hypocrisy of many white Christians. Their religious faith allowed them to argue that all humans without exception should be treated equally.
+
+<br>
+
+<p align="center">
+![](/img/Appeal to the Christian Women of the South, first page- Internet Archive- from The Anti-Slavery Examiner, vol 1 (1836).jpeg)<font size ="1"><FIGCAPTION>*Appeal to the Christian Women of the South, first page- internet Archive- from Anti Slavery Examiner, vol 1 (1836)*<FIGCAPTION></font>
+</p>
+
+<br>
 
 **Personal Experience**
 
-Another point that ties these two women together is the fact that both experienced or observed inequality and injustice based on race or gender from an early age. Sojourner Truth had a direct experience with slavery and Grimke witnessed it. Therefore, both knew the horrible condition in which slaves were treated and were able to speak eloquently on the subject. Additionally, it is important to mention that their involvement in the abolitionist cause had led them to realize the social limitation women had at the time and saw a direct connection between race and gender inequality. We can say that both were fighting for their own enslavement as well.
 
-**conclusion**
+Another point that connects these two women together is the fact that both experienced or observed racial inequality and injustice from an early age. Sojourner Truth had a direct experience with slavery and Grimke witnessed it. Therefore, both knew the horrible conditions in which slaves were treated and were able to speak eloquently on the subject. Additionally, it is important to mention that their involvement in the abolition of slavery had led them to realize the social limitation women had at the time and saw a direct connection between race and gender inequality. We can say that both were fighting for their own enslavement as well.
 
-Sojourner Truth and Angelina Grimke were strong and courageous women who went beyond what was expected from them at the time. Through their powerful voices, these two women had a profound effect on the abolitionist and women's rights movement. They have inspired thousands of people across the country and it is important to recognize and honor them for their effort in the fight for equality and freedom for all.
+<br>
+
+>
+<div align="center"><p style="font-size:25px;color:purple;">*"The investigation of the rights of the slaves has led me to a better understanding of my own."*</p>
+<div align="right"><p style="font-size:10px;color:purple;">-Angelina Grimke</p>
+
+<br>
+**Conclusion**
+
+Sojourner Truth and Angelina Grimke were strong and courageous women who were not afraid to speak up. Like Angelina Grimke said, "It is through the tongue, the pen and the press, that truth is propagated.". These two women were well aware of this, and their powerful voices had a profound effect on the abolition of slavery and the women's rights movement. They have inspired thousands of people across the country and it is important to recognize and remember their tireless efforts in the fight for equality and freedom for all.
+
+<br>
 
 
+
+
+<hr /><hr />
+<br>
+**Sources:**
+<br> 
+
+* Biography.com Editors. “*Sojourner Truth.” Biography.com*, A&amp;E Networks Television, 6 Jan. 2021, www.biography.com/activist/sojourner-truth. 
+* Lewis, Jone Johnson. “Biography of Angelina Grimké, American Abolitionist.” *ThoughtCo*, 3 June 2019, www.thoughtco.com/angelina-grimka-biography-3530210. 
+* History.com Editors. “Sojourner Truth.” *History.com*, A&amp;E Television Networks, 29 Oct. 2009, www.history.com/topics/black-history/sojourner-truth. 
+* Chicago - Michals, Debra.  "Angelina Grimke Weld."  *National Women's History Museum*.  2015.  www.womenshistory.org/education-resources/biographies/angelina-grimke-weld. 
 
 
 

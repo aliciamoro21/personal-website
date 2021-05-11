@@ -1,6 +1,6 @@
 baseurl: https://example.com/
 languageCode: en
-title: Title
+title: Alicia
 theme: hyde-hyde
 params:
   author: Author
@@ -35,7 +35,7 @@ menu:
       name: Portfolio
       url: /portfolio/
       weight: 200
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 300
+#    - identifier: about
+#      name: About
+#      url: /about/
+#      weight: 300
