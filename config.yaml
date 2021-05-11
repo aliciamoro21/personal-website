@@ -4,7 +4,7 @@ title: Alicia
 theme: hyde-hyde
 params:
   author: Author
-  authorimage: /static/img/hugo.png
+  #authorimage: /img/hugo.png
   copyright: htr3n
   dateformat: Jan 2, 2006
   highlightjs: yes
