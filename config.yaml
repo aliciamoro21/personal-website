@@ -1,6 +1,6 @@
 baseurl: https://example.com/
 languageCode: en
-title: Alicia
+title: Alicia Moro
 theme: hyde-hyde
 params:
   author: Author
